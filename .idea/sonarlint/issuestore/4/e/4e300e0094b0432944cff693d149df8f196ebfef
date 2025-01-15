@@ -1,0 +1,16 @@
+
+{
+java:S1104	"YMake loginUserName a static final constant or non-public and provide accessors if needed.(íÛŞÿÿÿÿÿ8×…ÑÆ2
+v
+java:S1104
+"YMake LoginPassword a static final constant or non-public and provide accessors if needed.(ùı÷8×…ÑÆ2
+u
+java:S1104"SMake context a static final constant or non-public and provide accessors if needed.(ÉÃäÉşÿÿÿÿ8ïÑÆ2
+t	java:S116
+"XRename this field "LoginPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùı÷8ä…ÑÆ2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÚÒïÍ8±•‘ÑÆ2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ”Ì¦8¨é‘ÑÆ2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ì×‚°8Ú£’ÑÆ2
